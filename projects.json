@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "last_updated": "2025-11-15",
+    "total_projects": 18,
+    "description": "Index of Israel-related MCP servers"
+  },
+  "projects": [
+    {
+      "id": "datagov-mcp",
+      "name": "DataGov Israel MCP Server",
+      "repository": "https://github.com/aviveldan/datagov-mcp",
+      "author": "aviveldan",
+      "author_url": "https://github.com/aviveldan",
+      "category": "government-data",
+      "description": "MCP server providing access to Israel's government public data platform (data.gov.il)",
+      "features": [
+        "Search and list government packages/datasets",
+        "Retrieve organizational information and metadata",
+        "Query resources with filtering and pagination",
+        "Access datastore records with advanced search",
+        "Fetch specific datasets by name"
+      ],
+      "data_sources": [
+        "data.gov.il"
+      ],
+      "language": "unknown",
+      "status": "active"
+    },
+    {
+      "id": "data-gov-il-mcp",
+      "name": "Data.gov.il MCP Server",
+      "repository": "https://github.com/DavidOsherdiagnostica/data-gov-il-mcp",
+      "author": "DavidOsherdiagnostica",
+      "author_url": "https://github.com/DavidOsherdiagnostica",
+      "category": "government-data",
+      "description": "Advanced MCP server for accessing Israeli government open data through data.gov.il CKAN API",
+      "features": [
+        "Dataset search and discovery (Hebrew/English)",
+        "Tag exploration by topic/category",
+        "Dataset information retrieval",
+        "Data record extraction and analysis",
+        "Organization browsing",
+        "Specialized analysis prompts (food/nutrition, environmental, real estate)"
+      ],
+      "data_sources": [
+        "data.gov.il",
+        "Government ministries",
+        "Local authorities",
+        "Public companies"
+      ],
+      "language": "javascript",
+      "status": "active"
+    },
+    {
+      "id": "israel-drugs-mcp",
+      "name": "Israel Drugs MCP Server",
+      "repository": "https://github.com/DavidOsherdiagnostica/israel-drugs-mcp-server",
+      "author": "DavidOsherdiagnostica",
+      "category": "healthcare",
+      "description": "Comprehensive access to Israel's pharmaceutical database from the Ministry of Health",
+      "features": [
+        "Medication discovery by name",
+        "Symptom-based treatment lookup",
+        "Generic alternative exploration",
+        "Visual drug verification with official images",
+        "Therapeutic category browsing (1,172+ ATC categories)",
+        "Health basket coverage and pricing",
+        "Safety profiles and contraindications"
+      ],
+      "data_sources": [
+        "Israel Ministry of Health pharmaceutical registry"
+      ],
+      "language": "unknown",
+      "demo": "https://github.com/DavidOsherdiagnostica/israel-drugs-mcp-server-demo",
+      "status": "active",
+      "author_url": "https://github.com/DavidOsherdiagnostica"
+    },
+    {
+      "id": "israel-statistics-mcp",
+      "name": "Israel Statistics MCP Server",
+      "repository": "https://github.com/reuvenaor/israel-statistics-mcp",
+      "author": "reuvenaor",
+      "category": "economics-statistics",
+      "description": "Access to Israeli economic data from the Central Bureau of Statistics (CBS)",
+      "features": [
+        "Consumer Price Index (CPI) data",
+        "Housing Market Index",
+        "Producer Price Indices",
+        "Construction materials, agriculture, transportation costs",
+        "Price linkage calculator (inflation-adjusted values)",
+        "Catalog browsing and topic navigation"
+      ],
+      "data_sources": [
+        "Israeli Central Bureau of Statistics (CBS)"
+      ],
+      "language": "typescript",
+      "status": "active",
+      "author_url": "https://github.com/reuvenaor"
+    },
+    {
+      "id": "remy-mcp",
+      "name": "Remy MCP (Israeli Land Authority)",
+      "repository": "https://github.com/barvhaim/remy-mcp",
+      "author": "barvhaim",
+      "category": "real-estate",
+      "description": "Access to Israeli Land Authority public tender data",
+      "features": [
+        "Tender search and filtering",
+        "Detailed tender information retrieval",
+        "Active tender listings",
+        "Recent tender outcomes",
+        "Geographic mapping data",
+        "Settlement name-to-code conversion",
+        "Hebrew language support"
+      ],
+      "data_sources": [
+        "Israeli Land Authority (רשות מקרקעי ישראל)"
+      ],
+      "language": "python",
+      "status": "active",
+      "author_url": "https://github.com/barvhaim"
+    },
+    {
+      "id": "israeli-bank-mcp",
+      "name": "Israeli Bank MCP",
+      "repository": "https://github.com/mottibec/israeli-bank-mcp",
+      "author": "mottibec",
+      "category": "finance",
+      "description": "MCP server for managing Israeli bank accounts and transactions",
+      "features": [
+        "Transaction fetching with customizable date ranges",
+        "Bank listing with credential requirements",
+        "Two-factor authentication handling",
+        "Support for 17 Israeli financial institutions"
+      ],
+      "data_sources": [
+        "Israeli banks via israeli-bank-scrapers library"
+      ],
+      "supported_banks": [
+        "Bank Hapoalim",
+        "Leumi",
+        "Discount",
+        "Mizrahi",
+        "Isracard",
+        "Amex"
+      ],
+      "language": "typescript",
+      "status": "active",
+      "author_url": "https://github.com/mottibec"
+    },
+    {
+      "id": "ilhealth-mcp",
+      "name": "ILHealth MCP",
+      "repository": "https://github.com/david-aftergut/ILHealth-mcp",
+      "author": "david-aftergut",
+      "category": "healthcare",
+      "description": "Access to Israeli Ministry of Health data dashboard",
+      "features": [
+        "Medical Services data",
+        "Health Services Quality metrics",
+        "War Casualties statistics",
+        "Child Checkup and Development data",
+        "Beach safety information",
+        "Health Funds (Insurance) data"
+      ],
+      "data_sources": [
+        "Israeli Ministry of Health dashboard"
+      ],
+      "language": "python",
+      "status": "active",
+      "author_url": "https://github.com/david-aftergut"
+    },
+    {
+      "id": "il-bank-mcp",
+      "name": "IL Bank MCP",
+      "repository": "https://github.com/glekner/il-bank-mcp",
+      "author": "glekner",
+      "category": "finance",
+      "description": "AI-powered financial analysis through automated Israeli bank scraping",
+      "features": [
+        "Transaction history retrieval",
+        "Financial summary (income, expenses, trends)",
+        "Transaction search",
+        "Monthly credit summary",
+        "Recurring charges identification",
+        "Merchant spending analysis",
+        "Data refresh across providers",
+        "Local SQLite storage"
+      ],
+      "data_sources": [
+        "Israeli banks via israeli-bank-scrapers"
+      ],
+      "supported_banks": [
+        "Leumi",
+        "Hapoalim",
+        "Discount Bank",
+        "Major credit card providers"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/glekner"
+    },
+    {
+      "id": "ilbudget-mcp",
+      "name": "ILBudget MCP",
+      "repository": "https://github.com/david-aftergut/ILBudget-mcp",
+      "author": "david-aftergut",
+      "category": "government-data",
+      "description": "Access to Israeli government budget data",
+      "features": [],
+      "data_sources": [
+        "Israeli government budget"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/david-aftergut"
+    },
+    {
+      "id": "ims-mcp",
+      "name": "IMS MCP (Israeli Meteorological Service)",
+      "repository": "https://github.com/GuyKh/ims-mcp",
+      "author": "GuyKh",
+      "category": "weather",
+      "description": "Access to Israeli Meteorological Service data",
+      "features": [],
+      "data_sources": [
+        "Israeli Meteorological Service"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/GuyKh"
+    },
+    {
+      "id": "routes-mcp-israel",
+      "name": "Routes MCP Israel",
+      "repository": "https://github.com/yoni-j/routes-mcp-israel",
+      "author": "yoni-j",
+      "category": "transportation",
+      "description": "Israeli transportation and routing data",
+      "features": [],
+      "data_sources": [
+        "Israeli transportation systems"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/yoni-j"
+    },
+    {
+      "id": "nadlan-mcp",
+      "name": "Nadlan MCP",
+      "repository": "https://github.com/nitzpo/nadlan-mcp",
+      "author": "nitzpo",
+      "category": "real-estate",
+      "description": "Israeli real estate data (Nadlan = Real Estate in Hebrew)",
+      "features": [],
+      "data_sources": [
+        "Israeli real estate sources"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/nitzpo"
+    },
+    {
+      "id": "asher-mcp",
+      "name": "Asher MCP",
+      "repository": "https://github.com/shlomiuziel/asher-mcp",
+      "author": "shlomiuziel",
+      "category": "unknown",
+      "description": "Unknown purpose - requires investigation",
+      "features": [],
+      "data_sources": [],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/shlomiuziel"
+    },
+    {
+      "id": "knesset-mcp",
+      "name": "Knesset MCP",
+      "repository": "https://github.com/zohar/knesset-mcp",
+      "author": "zohar",
+      "category": "government-data",
+      "description": "Access to Israeli parliament (Knesset) data",
+      "features": [],
+      "data_sources": [
+        "Knesset"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/zohar"
+    },
+    {
+      "id": "disabled-parking-permit-mcp",
+      "name": "Disabled Parking Permit MCP",
+      "repository": "https://github.com/MaorEi/disabled-parking-permit-mcp-server",
+      "author": "MaorEi",
+      "category": "government-services",
+      "description": "Israeli disabled parking permit information",
+      "features": [],
+      "data_sources": [
+        "Israeli disabled parking permit database"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/MaorEi"
+    },
+    {
+      "id": "nli-ai-search",
+      "name": "NLI AI Search",
+      "repository": "https://github.com/mula2812/NLI_AI_Search",
+      "author": "mula2812",
+      "category": "library",
+      "description": "National Library of Israel AI-powered search",
+      "features": [],
+      "data_sources": [
+        "National Library of Israel"
+      ],
+      "language": "unknown",
+      "status": "active",
+      "author_url": "https://github.com/mula2812"
+    }
+  ],
+  "categories": {
+    "government-data": {
+      "name": "Government & Open Data",
+      "description": "Access to Israeli government datasets, budgets, and public information"
+    },
+    "healthcare": {
+      "name": "Healthcare & Medical",
+      "description": "Medical data, pharmaceuticals, and health services information"
+    },
+    "finance": {
+      "name": "Finance & Banking",
+      "description": "Banking transactions, financial analysis, and economic data"
+    },
+    "economics-statistics": {
+      "name": "Economics & Statistics",
+      "description": "Economic indicators, price indices, and statistical data"
+    },
+    "real-estate": {
+      "name": "Real Estate & Land",
+      "description": "Property data, land tenders, and real estate information"
+    },
+    "transportation": {
+      "name": "Transportation",
+      "description": "Routing, transit, and transportation data"
+    },
+    "weather": {
+      "name": "Weather & Environment",
+      "description": "Meteorological data and environmental information"
+    },
+    "government-services": {
+      "name": "Government Services",
+      "description": "Public services and administrative functions"
+    },
+    "library": {
+      "name": "Library & Archives",
+      "description": "Library collections and archival data"
+    }
+  }
+}
