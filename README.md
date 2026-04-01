@@ -142,6 +142,27 @@ Advanced MCP server for accessing Israeli government open data through data.gov.
 
 ---
 
+## [Data Israel](https://github.com/LiorVainer/data-israel)
+
+![GitHub stars](https://img.shields.io/github/stars/LiorVainer/data-israel?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/LiorVainer/data-israel)
+
+AI agent network that connects to Israeli open data APIs (data.gov.il & CBS) — ask questions in Hebrew, get answers grounded in real data with charts and sources
+
+**Features:**
+- Hebrew language queries against Israeli open data
+- data.gov.il API integration
+- Central Bureau of Statistics (CBS) integration
+- Chart and visualization generation
+- Source-grounded answers
+
+**Data Sources:** data.gov.il, Israeli Central Bureau of Statistics (CBS)
+
+**Language:** Typescript
+
+**Author:** [LiorVainer](https://github.com/LiorVainer)
+
+---
+
 ## [DataGov Israel MCP Server](https://github.com/aviveldan/datagov-mcp)
 
 ![GitHub stars](https://img.shields.io/github/stars/aviveldan/datagov-mcp?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/aviveldan/datagov-mcp)
@@ -421,6 +442,7 @@ Alphabetical list of contributors who have created Israel-related MCP servers:
 - [reuvenaor](https://github.com/reuvenaor)
 - [shlomiuziel](https://github.com/shlomiuziel)
 - [yoni-j](https://github.com/yoni-j)
+- [LiorVainer](https://github.com/LiorVainer)
 - [zohar](https://github.com/zohar)
 
 # Contributing

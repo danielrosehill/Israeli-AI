@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-18",
-    "total_projects": 20,
+    "last_updated": "2026-04-01",
+    "total_projects": 21,
     "description": "Index of Israel-related MCP servers"
   },
   "projects": [
@@ -342,6 +342,28 @@
       "status": "active",
       "deployment": "https://mcp.jlmshelters.com/mcp",
       "notes": "Currently covers Jerusalem with 198 shelters. Runs on Cloudflare Workers. Data licensed under ODbL."
+    },
+    {
+      "id": "data-israel",
+      "name": "Data Israel",
+      "repository": "https://github.com/LiorVainer/data-israel",
+      "author": "LiorVainer",
+      "author_url": "https://github.com/LiorVainer",
+      "category": "government-data",
+      "description": "AI agent network that connects to Israeli open data APIs (data.gov.il & CBS) — ask questions in Hebrew, get answers grounded in real data with charts and sources",
+      "features": [
+        "Hebrew language queries against Israeli open data",
+        "data.gov.il API integration",
+        "Central Bureau of Statistics (CBS) integration",
+        "Chart and visualization generation",
+        "Source-grounded answers"
+      ],
+      "data_sources": [
+        "data.gov.il",
+        "Israeli Central Bureau of Statistics (CBS)"
+      ],
+      "language": "typescript",
+      "status": "active"
     },
     {
       "id": "miklat-mcp-data",
