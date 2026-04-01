@@ -73,6 +73,29 @@ AI-powered financial analysis through automated Israeli bank scraping
 
 ---
 
+## [GreenInvoice MCP](https://github.com/danielrosehill/GreenInvoice-MCP)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/GreenInvoice-MCP?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/GreenInvoice-MCP)
+
+MCP server for Israeli invoicing and accounting via the Green Invoice API
+
+**Features:**
+- Create, search, update, delete, close, send, and preview invoices, receipts, quotes
+- Full client management (CRUD + search + document history)
+- Product/service catalog management
+- Payment link creation and status checking
+- Webhook management
+- Automatic JWT token management with caching and refresh
+- Sandbox mode support for testing
+
+**Data Sources:** Green Invoice API (greeninvoice.co.il)
+
+**Language:** Typescript
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ## [Israeli Bank MCP](https://github.com/mottibec/israeli-bank-mcp)
 
 ![GitHub stars](https://img.shields.io/github/stars/mottibec/israeli-bank-mcp?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/mottibec/israeli-bank-mcp)
