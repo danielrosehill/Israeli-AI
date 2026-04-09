@@ -19,7 +19,8 @@ Projects are presented as compact tables; ecosystem and community sections use g
 ### 🤖 Projects
 
 - [AI Agents](#ai-agents)
-- [Agent Skills](#agent-skills)
+- [Agent Skills →](agent-skills.md)
+- [MCP Servers →](mcps.md)
 - [Skills & Frameworks](#agent-skills--frameworks)
 - [Curated Lists](#curated-lists)
 
@@ -53,21 +54,22 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 ### 🧰 By Domain
 
-- [Finance & Banking](#finance--banking)
-- [Government Data](#government--open-data)
-- [Government Services](#government-services)
-- [Healthcare](#healthcare--medical)
-- [Legal](#legal)
-- [Insurance](#insurance)
-- [Real Estate](#real-estate--land)
-- [Safety & Emergency](#safety--emergency)
-- [Shopping & Retail](#shopping--retail)
-- [Transportation](#transportation)
-- [Weather](#weather--environment)
-- [Economics & Statistics](#economics--statistics)
-- [Library & Archives](#library--archives)
-- [Careers & Jobs](#careers--jobs)
-- [Dashboards](#dashboards) · [Plugins](#plugins) · [Voice](#voice-agents)
+Domain-specific MCP servers and tools are listed in [**mcps.md**](mcps.md):
+
+- [Finance & Banking](mcps.md#finance--banking)
+- [Government Data](mcps.md#government--open-data)
+- [Government Services](mcps.md#government-services)
+- [Healthcare](mcps.md#healthcare--medical)
+- [Legal](mcps.md#legal) · [Insurance](mcps.md#insurance)
+- [Real Estate](mcps.md#real-estate--land)
+- [Safety & Emergency](mcps.md#safety--emergency)
+- [Shopping](mcps.md#shopping--retail) · [Transport](mcps.md#transportation)
+- [Weather](mcps.md#weather--environment)
+- [Economics](mcps.md#economics--statistics)
+- [Library](mcps.md#library--archives)
+- [Careers](mcps.md#careers--jobs) · [Dashboards](mcps.md#dashboards)
+- [Plugins](mcps.md#plugins) · [Voice](mcps.md#voice-agents)
+- [Other](mcps.md#other-projects)
 
 </td>
 </tr>
@@ -84,22 +86,6 @@ Autonomous AI agents built for Israeli use cases.
 | [News Agent](https://github.com/eyalban/News-Agent) | Daily Hebrew security briefing agent for the Iran-Israel conflict, automated via GitHub Actions | ![](https://img.shields.io/github/stars/eyalban/News-Agent?style=social) |
 | [OlehAssist Agent](https://github.com/abernatkunin/OlehAssistAgent) | Chatbot to assist new Israeli immigrants (olim) with bureaucratic issues after making Aliyah | ![](https://img.shields.io/github/stars/abernatkunin/OlehAssistAgent?style=social) |
 
-
-# Agent Skills
-
-Individual AI agent skills for Israeli services and data.
-
-| Skill | Description | Stars |
-|---|---|---|
-| [Clalit Pharmacy Search](https://github.com/tomron/agent-skill-clalit-pharm-search) | Search medications and check real-time stock at Clalit (כללית) pharmacies | ![](https://img.shields.io/github/stars/tomron/agent-skill-clalit-pharm-search?style=social) |
-| [Morning Skill](https://github.com/D1DX/morning-skill) | Morning (Green Invoice) expense management, S3 upload, classifications, search | ![](https://img.shields.io/github/stars/D1DX/morning-skill?style=social) |
-| [Nadlan Skill](https://github.com/IsraelZablianov/nadlan-skill) | Israeli real estate market analysis | ![](https://img.shields.io/github/stars/IsraelZablianov/nadlan-skill?style=social) |
-| [OnTopo Skill](https://github.com/alexpolonsky/agent-skill-ontopo) | Search Israeli restaurants, check availability, get booking links (OnTopo/Tabit) | ![](https://img.shields.io/github/stars/alexpolonsky/agent-skill-ontopo?style=social) |
-| [JLM Coffee](https://github.com/alexpolonsky/agent-skill-jlm-coffee) | Discover coffee shops in Jerusalem | ![](https://img.shields.io/github/stars/alexpolonsky/agent-skill-jlm-coffee?style=social) |
-| [Israeli Corporate Law](https://github.com/avivshafir/israeli-corporate-law-skill) | Agent skill for Israeli corporate law | ![](https://img.shields.io/github/stars/avivshafir/israeli-corporate-law-skill?style=social) |
-| [iCount Skill](https://github.com/Tura2/icount-skill) | iCount — Israeli invoicing and accounting platform | ![](https://img.shields.io/github/stars/Tura2/icount-skill?style=social) |
-| [Rail IL Skill](https://github.com/lirantal/skill-railil) | Agent skill for the Israel Railways API | ![](https://img.shields.io/github/stars/lirantal/skill-railil?style=social) |
-| [Seret Skill](https://github.com/omernesh/seret-skill) | Israeli movie showtimes, ratings, cinema info from seret.co.il | ![](https://img.shields.io/github/stars/omernesh/seret-skill?style=social) |
 
 
 # Agent Skills & Frameworks
@@ -253,195 +239,6 @@ Indexes and resource lists focused on Hebrew-language AI models, tooling, and ev
 | [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Resources for working with the Hebrew calendar (Jewish/Israeli date systems). | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Calendar-Resources?style=social) |
 | [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Index of text-to-speech providers and engines supporting Hebrew. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-TTS-Providers?style=social) |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on their ability to render Hebrew text. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Image-Generation-Eval?style=social) |
-
-# Economics & Statistics
-
-Economic indicators, price indices, and statistical data
-
-| Project | Description | Stars |
-|---|---|---|
-| [Israel Statistics MCP Server](https://github.com/reuvenaor/israel-statistics-mcp) | Access to Israeli economic data from the Central Bureau of Statistics (CBS) | ![](https://img.shields.io/github/stars/reuvenaor/israel-statistics-mcp?style=social) |
-
-
-# Finance & Banking
-
-Banking transactions, financial analysis, and economic data
-
-| Project | Description | Stars |
-|---|---|---|
-| [Invoice Extractor](https://github.com/gil-hue/invoice-extractor) | AI-powered extractor for Israeli invoices. | ![](https://img.shields.io/github/stars/gil-hue/invoice-extractor?style=social) |
-| [Payroll](https://github.com/moshe084/payroll) | Israeli payroll tool with AI assistance. | ![](https://img.shields.io/github/stars/moshe084/payroll?style=social) |
-| [IL Bank MCP](https://github.com/glekner/il-bank-mcp) | AI-powered financial analysis through automated Israeli bank scraping | ![](https://img.shields.io/github/stars/glekner/il-bank-mcp?style=social) |
-| [Nudlers](https://github.com/enudler/nudlers) | Smart personal finance tracker for Israeli banks and credit cards with AI categorization, recurring payment detection, self-hosting via Docker, and MCP support | ![](https://img.shields.io/github/stars/enudler/nudlers?style=social) |
-| [GreenInvoice MCP](https://github.com/danielrosehill/GreenInvoice-MCP) | MCP server for Israeli invoicing and accounting via the Green Invoice API | ![](https://img.shields.io/github/stars/danielrosehill/GreenInvoice-MCP?style=social) |
-| [Israeli Bank MCP](https://github.com/mottibec/israeli-bank-mcp) | MCP server for managing Israeli bank accounts and transactions | ![](https://img.shields.io/github/stars/mottibec/israeli-bank-mcp?style=social) |
-| [ClawSavings](https://github.com/yhyatt/ClawSavings) | Savings tracker/tool with Israeli market focus. | ![](https://img.shields.io/github/stars/yhyatt/ClawSavings?style=social) |
-
-
-# Government & Open Data
-
-Access to Israeli government datasets, budgets, and public information
-
-| Project | Description | Stars |
-|---|---|---|
-| [Data.gov.il MCP Server](https://github.com/DavidOsherdiagnostica/data-gov-il-mcp) | Advanced MCP server for accessing Israeli government open data through data.gov.il CKAN API | ![](https://img.shields.io/github/stars/DavidOsherdiagnostica/data-gov-il-mcp?style=social) |
-| [Data Israel](https://github.com/LiorVainer/data-israel) | AI agent network that connects to Israeli open data APIs (data.gov.il & CBS) — ask questions in Hebrew, get answers grounded in real data with charts and sources | ![](https://img.shields.io/github/stars/LiorVainer/data-israel?style=social) |
-| [DataGov Israel MCP Server](https://github.com/aviveldan/datagov-mcp) | MCP server providing access to Israel's government public data platform (data.gov.il) | ![](https://img.shields.io/github/stars/aviveldan/datagov-mcp?style=social) |
-| [ILBudget MCP](https://github.com/david-aftergut/ILBudget-mcp) | Access to Israeli government budget data | ![](https://img.shields.io/github/stars/david-aftergut/ILBudget-mcp?style=social) |
-| [Knesset MCP](https://github.com/zohar/knesset-mcp) | Access to Israeli parliament (Knesset) data | ![](https://img.shields.io/github/stars/zohar/knesset-mcp?style=social) |
-| [Israel Knesset API MCP](https://github.com/nadavshalev/israel-knesset-api-mcp) | MCP server for accessing the Israeli Knesset (parliament) API | ![](https://img.shields.io/github/stars/nadavshalev/israel-knesset-api-mcp?style=social) |
-
-
-# Government Services
-
-Public services and administrative functions
-
-| Project | Description | Stars |
-|---|---|---|
-| [Disabled Parking Permit MCP](https://github.com/MaorEi/disabled-parking-permit-mcp-server) | Israeli disabled parking permit information | ![](https://img.shields.io/github/stars/MaorEi/disabled-parking-permit-mcp-server?style=social) |
-| [Israel Fine Checker](https://github.com/kistik1/Israel-fine-checker) | Open-source skill and MCP server for checking Israeli parking and HOV/public-transport-route fines through doh.co.il, with Hebrew intake prompts and support for 63 municipalities | ![](https://img.shields.io/github/stars/kistik1/Israel-fine-checker?style=social) |
-
-
-# Healthcare & Medical
-
-Medical data, pharmaceuticals, and health services information
-
-| Project | Description | Stars |
-|---|---|---|
-| [ILHealth MCP](https://github.com/david-aftergut/ILHealth-mcp) | Access to Israeli Ministry of Health data dashboard | ![](https://img.shields.io/github/stars/david-aftergut/ILHealth-mcp?style=social) |
-| [Israel Drugs MCP Server](https://github.com/DavidOsherdiagnostica/israel-drugs-mcp-server) | Comprehensive access to Israel's pharmaceutical database from the Ministry of Health | ![](https://img.shields.io/github/stars/DavidOsherdiagnostica/israel-drugs-mcp-server?style=social) |
-| [Super-Pharm Stock Checker](https://github.com/BarMalka/super-pharm-stock-checker) | Stock checker for Super-Pharm, Israel's largest pharmacy chain. | ![](https://img.shields.io/github/stars/BarMalka/super-pharm-stock-checker?style=social) |
-
-
-# Insurance
-
-Israeli insurance market data and intelligence
-
-| Project | Description | Stars |
-|---|---|---|
-| [Up360 MCP](https://github.com/eliko86/up360mcp) | MCP server for Israeli insurance intelligence — 15 tools for business data, insurance market analysis, lead discovery, and enrichment | ![](https://img.shields.io/github/stars/eliko86/up360mcp?style=social) |
-
-
-# Legal
-
-Israeli law and regulatory data
-
-| Project | Description | Stars |
-|---|---|---|
-| [Israel Law MCP](https://github.com/Ansvar-Systems/israel-law-mcp) | Israel law — Privacy Protection Law, Cyber Directorate regulations, Companies Law with Hebrew/English search | ![](https://img.shields.io/github/stars/Ansvar-Systems/israel-law-mcp?style=social) |
-
-
-# Library & Archives
-
-Library collections and archival data
-
-| Project | Description | Stars |
-|---|---|---|
-| [NLI AI Search](https://github.com/mula2812/NLI_AI_Search) | National Library of Israel AI-powered search | ![](https://img.shields.io/github/stars/mula2812/NLI_AI_Search?style=social) |
-
-
-# Real Estate & Land
-
-Property data, land tenders, and real estate information
-
-| Project | Description | Stars |
-|---|---|---|
-| [Nadlan MCP](https://github.com/nitzpo/nadlan-mcp) | Israeli real estate data (Nadlan = Real Estate in Hebrew) | ![](https://img.shields.io/github/stars/nitzpo/nadlan-mcp?style=social) |
-| [Urban Guardian MCP](https://github.com/GaryShnol/urban-guardian-mcp) | An intelligent MCP server that transforms raw Israeli real-estate data into actionable financial insights using Claude | ![](https://img.shields.io/github/stars/GaryShnol/urban-guardian-mcp?style=social) |
-| [Remy MCP (Israeli Land Authority)](https://github.com/barvhaim/remy-mcp) | Access to Israeli Land Authority public tender data | ![](https://img.shields.io/github/stars/barvhaim/remy-mcp?style=social) |
-
-
-# Safety & Emergency
-
-Public shelters, emergency services, and civil defense data
-
-| Project | Description | Stars |
-|---|---|---|
-| [Miklat MCP](https://github.com/danielrosehill/Miklat-MCP) | MCP server enabling AI agents to guide users towards miklatim tziburim (public shelters) in Israel | ![](https://img.shields.io/github/stars/danielrosehill/Miklat-MCP?style=social) |
-| [Pikud HaOref Alerts](https://github.com/yaniv-golan/pikud-haoref-alerts) | MCP server providing live Pikud HaOref alert data to AI assistants | ![](https://img.shields.io/github/stars/yaniv-golan/pikud-haoref-alerts?style=social) |
-| [Red Alert MCP Server](https://github.com/ozba/redalert-mcp-server) | MCP server for Israel's Red Alert (צבע אדום) emergency alert system — real-time alerts, statistics, shelter search, and city data | ![](https://img.shields.io/github/stars/ozba/redalert-mcp-server?style=social) |
-| [Miklat MCP Data](https://github.com/danielrosehill/Miklat-MCP-Data) | Community-maintained geodata repository and data pipeline for Israeli public shelters, upstream data source for Miklat MCP | ![](https://img.shields.io/github/stars/danielrosehill/Miklat-MCP-Data?style=social) |
-| [Israel Preparedness Guidelines AI Assistant](https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant) | AI assistant providing civil defense and emergency preparedness guidance based on Israeli Home Front Command material. | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant?style=social) |
-
-
-# Shopping & Retail
-
-Israeli e-commerce and price comparison tools
-
-| Project | Description | Stars |
-|---|---|---|
-| [KSP MCP](https://github.com/guymon92/ksp-mcp) | MCP server for searching and browsing products on KSP.co.il — one of Israel's largest electronics and retail stores | ![](https://img.shields.io/github/stars/guymon92/ksp-mcp?style=social) |
-| [Israeli Price Comparison MCP](https://github.com/Simtob-Eran/mcp-israeli-price-comparison) | MCP server for Israeli price comparison | ![](https://img.shields.io/github/stars/Simtob-Eran/mcp-israeli-price-comparison?style=social) |
-| [Israeli Tech Shopping MCP](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP) | MCP server for comparison shopping across Israeli tech retailers with browser automation | ![](https://img.shields.io/github/stars/danielrosehill/Israeli-Tech-Shopping-MCP?style=social) |
-
-
-# Transportation
-
-Routing, transit, and transportation data
-
-| Project | Description | Stars |
-|---|---|---|
-| [Routes MCP Israel](https://github.com/yoni-j/routes-mcp-israel) | Israeli transportation and routing data | ![](https://img.shields.io/github/stars/yoni-j/routes-mcp-israel?style=social) |
-
-
-# Weather & Environment
-
-Meteorological data and environmental information
-
-| Project | Description | Stars |
-|---|---|---|
-| [IMS MCP (Israeli Meteorological Service)](https://github.com/GuyKh/ims-mcp) | Access to Israeli Meteorological Service data | ![](https://img.shields.io/github/stars/GuyKh/ims-mcp?style=social) |
-
-
-# Careers & Jobs
-
-AI tools for job hunting and career monitoring in the Israeli market.
-
-| Project | Description | Stars |
-|---|---|---|
-| [Job Hunt AI](https://github.com/ayhambd12/job-hunt-ai) | AI-powered job hunting assistant. | ![](https://img.shields.io/github/stars/ayhambd12/job-hunt-ai?style=social) |
-| [Israeli Job Scanner](https://github.com/benkleinben-pixel/israeli-job-scanner) | Scanner for Israeli job listings. | ![](https://img.shields.io/github/stars/benkleinben-pixel/israeli-job-scanner?style=social) |
-| [Develeap BDR Job Monitor](https://github.com/DoriKafri/develeap-bdr-job-monitor) | Job monitor for Develeap BDR roles. | ![](https://img.shields.io/github/stars/DoriKafri/develeap-bdr-job-monitor?style=social) |
-
-
-# Dashboards
-
-AI-powered dashboards with an Israeli focus.
-
-| Project | Description | Stars |
-|---|---|---|
-| [News Dashboard](https://github.com/avivbaramamirim-crypto/news-dashboard) | AI-powered news dashboard. | ![](https://img.shields.io/github/stars/avivbaramamirim-crypto/news-dashboard?style=social) |
-
-
-# Plugins
-
-Claude Code and agent plugins for Israeli services.
-
-| Project | Description | Stars |
-|---|---|---|
-| [Deep Value TASE Plugin](https://github.com/deepvalueinvesting/deep-value-tase-plugin) | Deep-value investing plugin for the Tel Aviv Stock Exchange (TASE). | ![](https://img.shields.io/github/stars/deepvalueinvesting/deep-value-tase-plugin?style=social) |
-
-
-# Voice Agents
-
-Voice-enabled AI agents for Israeli use cases.
-
-| Project | Description | Stars |
-|---|---|---|
-| [Voxione](https://github.com/voxiproxiv1-blip/voxione) | Voice AI agent project. | ![](https://img.shields.io/github/stars/voxiproxiv1-blip/voxione?style=social) |
-
-
-# Other Projects
-
-Projects that need categorization.
-
-| Project | Description | Stars |
-|---|---|---|
-| [Geopol Forecaster POC](https://github.com/danielrosehill/Geopol-Forecaster-POC) | Proof-of-concept AI geopolitical forecaster with a focus on events relevant to Israel and the wider region. | ![](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecaster-POC?style=social) |
-| [Quantum Pinuy Binuy Analyzer](https://github.com/hemichaeli/quantum-pinuy-binuy-analyzer) | Analyzer for Israeli pinuy-binuy (evacuation-reconstruction) urban renewal projects. | ![](https://img.shields.io/github/stars/hemichaeli/quantum-pinuy-binuy-analyzer?style=social) |
-| [Asher MCP](https://github.com/shlomiuziel/asher-mcp) | Unknown purpose - requires investigation | ![](https://img.shields.io/github/stars/shlomiuziel/asher-mcp?style=social) |
-| [Fingent](https://github.com/amitdan1/Fingent) | Fingent — Smart Financial Management System for Israel. AI-powered advisor (Finni), open banking, expense analytics | ![](https://img.shields.io/github/stars/amitdan1/Fingent?style=social) |
-| [RPA Port Platform](https://github.com/doronrpa-hub/rpa-port-platform) | Israeli Customs Intelligence Platform — AI-powered document classification, email monitoring, and self-learning knowledge base | ![](https://img.shields.io/github/stars/doronrpa-hub/rpa-port-platform?style=social) |
 
 
 # Contributing
