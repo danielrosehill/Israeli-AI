@@ -12,10 +12,70 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 ## Contents
 
-- **Projects:** [AI Agents](#ai-agents) · [Agent Skills](#agent-skills) · [Skills & Frameworks](#agent-skills--frameworks) · [Curated Lists](#curated-lists)
-- **Ecosystem:** [Communities](#communities--organizations) · [Government](#government-bodies) · [Centers of Excellence](#centers-of-excellence) · [Research Orgs](#research-organizations) · [Education](#education) · [AI Jobs](#ai-jobs) · [VCs & Financing](#ai-focused-vcs--financing) · [Conferences](#conferences--events) · [Inference Providers](#inference-providers--local-clouds) · [Startups](#startup-ecosystem)
-- **Hebrew & Language:** [Hebrew Language Resources](#hebrew-language-resources)
-- **By Domain:** [Finance](#finance--banking) · [Gov Data](#government--open-data) · [Gov Services](#government-services) · [Healthcare](#healthcare--medical) · [Legal](#legal) · [Insurance](#insurance) · [Real Estate](#real-estate--land) · [Safety](#safety--emergency) · [Shopping](#shopping--retail) · [Transport](#transportation) · [Weather](#weather--environment) · [Economics](#economics--statistics) · [Library](#library--archives) · [Careers](#careers--jobs) · [Dashboards](#dashboards) · [Plugins](#plugins) · [Voice](#voice-agents)
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### 🤖 Projects
+
+- [AI Agents](#ai-agents)
+- [Agent Skills](#agent-skills)
+- [Skills & Frameworks](#agent-skills--frameworks)
+- [Curated Lists](#curated-lists)
+
+</td>
+<td valign="top" width="25%">
+
+### 🌐 Ecosystem
+
+- [Communities](#communities--organizations)
+- [Government Bodies](#government-bodies)
+- [Centers of Excellence](#centers-of-excellence)
+- [Research Orgs](#research-organizations)
+- [Education](#education)
+- [AI Jobs](#ai-jobs)
+- [VCs & Financing](#ai-focused-vcs--financing)
+- [Conferences](#conferences--events)
+- [Inference Providers](#inference-providers--local-clouds)
+- [Startups](#startup-ecosystem)
+
+</td>
+<td valign="top" width="25%">
+
+### 🇮🇱 Hebrew & Language
+
+- [Overview](#hebrew-language-resources)
+- [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models)
+- [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index)
+- [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers)
+- [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation)
+- [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources)
+- [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval)
+
+</td>
+<td valign="top" width="25%">
+
+### 🧰 By Domain
+
+- [Finance & Banking](#finance--banking)
+- [Government Data](#government--open-data)
+- [Government Services](#government-services)
+- [Healthcare](#healthcare--medical)
+- [Legal](#legal)
+- [Insurance](#insurance)
+- [Real Estate](#real-estate--land)
+- [Safety & Emergency](#safety--emergency)
+- [Shopping & Retail](#shopping--retail)
+- [Transportation](#transportation)
+- [Weather](#weather--environment)
+- [Economics & Statistics](#economics--statistics)
+- [Library & Archives](#library--archives)
+- [Careers & Jobs](#careers--jobs)
+- [Dashboards](#dashboards) · [Plugins](#plugins) · [Voice](#voice-agents)
+
+</td>
+</tr>
+</table>
 
 # AI Agents
 
