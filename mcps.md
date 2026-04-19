@@ -47,6 +47,7 @@ Banking transactions, financial analysis, and economic data
 | [ClawSavings](https://github.com/yhyatt/ClawSavings) | Savings tracker/tool with Israeli market focus. | ![](https://img.shields.io/github/stars/yhyatt/ClawSavings?style=social) |
 | [Takumi](https://github.com/NitzanLary/Takumi) | Personal trading intelligence platform for TASE and US equities via IBI with a Claude-powered chat agent | ![](https://img.shields.io/github/stars/NitzanLary/Takumi?style=social) |
 | [CashPilot](https://github.com/danielcashpilot/cashpilot) | AI-powered analyzer for Israeli personal-finance PDF statements | ![](https://img.shields.io/github/stars/danielcashpilot/cashpilot?style=social) |
+| [Payslip Analyzer](https://github.com/lirantal/payslip-analyzer) | Cloudflare webapp using the Gemini API to analyze Israeli payslips | ![](https://img.shields.io/github/stars/lirantal/payslip-analyzer?style=social) |
 
 
 ## Government & Open Data
@@ -146,6 +147,7 @@ Israeli e-commerce and price comparison tools
 | [KSP MCP](https://github.com/guymon92/ksp-mcp) | MCP server for searching and browsing products on KSP.co.il — one of Israel's largest electronics and retail stores | ![](https://img.shields.io/github/stars/guymon92/ksp-mcp?style=social) |
 | [Israeli Price Comparison MCP](https://github.com/Simtob-Eran/mcp-israeli-price-comparison) | MCP server for Israeli price comparison | ![](https://img.shields.io/github/stars/Simtob-Eran/mcp-israeli-price-comparison?style=social) |
 | [Israeli Tech Shopping MCP](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP) | MCP server for comparison shopping across Israeli tech retailers with browser automation | ![](https://img.shields.io/github/stars/danielrosehill/Israeli-Tech-Shopping-MCP?style=social) |
+| [Zap](https://github.com/TalKleinBgu/Zap) | Product deduplication pipeline for Israeli price comparison using Hebrew/English normalization, FAISS embeddings, and LLM cluster refinement | ![](https://img.shields.io/github/stars/TalKleinBgu/Zap?style=social) |
 
 
 ## Transportation
@@ -194,6 +196,7 @@ Claude Code and agent plugins for Israeli services.
 | Project | Description | Stars |
 |---|---|---|
 | [Deep Value TASE Plugin](https://github.com/deepvalueinvesting/deep-value-tase-plugin) | Deep-value investing plugin for the Tel Aviv Stock Exchange (TASE). | ![](https://img.shields.io/github/stars/deepvalueinvesting/deep-value-tase-plugin?style=social) |
+| [HA Israel News](https://github.com/Daniellamm/ha-israel-news) | HACS integration fetching Israel-related breaking news via the xAI Grok API | ![](https://img.shields.io/github/stars/Daniellamm/ha-israel-news?style=social) |
 
 
 ## Voice Agents
