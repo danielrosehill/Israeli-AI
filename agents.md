@@ -11,3 +11,4 @@ Autonomous AI agents built for Israeli use cases.
 | [Knessy](https://github.com/amnir/knessy) | Agentic research assistant for Israeli Knesset data, built with LangGraph, RAG, and MCP | ![](https://img.shields.io/github/stars/amnir/knessy?style=social) |
 | [ClawCierge](https://github.com/yhyatt/ClawCierge) | Restaurant booking agent with direct Israeli API support, plus Europe and NYC handoff via browser automation | ![](https://img.shields.io/github/stars/yhyatt/ClawCierge?style=social) |
 | [Solvulator](https://github.com/uprootiny/solvulator) | 12-agent legal document processing pipeline for the Israeli legal system with a timeline UI over real court documents | ![](https://img.shields.io/github/stars/uprootiny/solvulator?style=social) |
+| [govil.ai](https://govil.ai/) | Autonomous agent that turns every data.gov.il dataset into a Hebrew explainer page with interactive charts and maps, self-validated against the source data and published daily | — |
