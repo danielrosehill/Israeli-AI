@@ -11,7 +11,7 @@ Individual AI agent skills for Israeli services and data. Part of the [Israeli A
 | [JLM Coffee](https://github.com/alexpolonsky/agent-skill-jlm-coffee) | Discover coffee shops in Jerusalem | ![](https://img.shields.io/github/stars/alexpolonsky/agent-skill-jlm-coffee?style=social) |
 | [Israeli Corporate Law](https://github.com/avivshafir/israeli-corporate-law-skill) | Agent skill for Israeli corporate law | ![](https://img.shields.io/github/stars/avivshafir/israeli-corporate-law-skill?style=social) |
 | [iCount Skill](https://github.com/Tura2/icount-skill) | iCount — Israeli invoicing and accounting platform | ![](https://img.shields.io/github/stars/Tura2/icount-skill?style=social) |
-| [Israel Agent Skills Plugin](https://github.com/danielrosehill/Israel-Agent-Skills-Plugin) | Claude Code plugin bundling Israel-specific agent skills — post office appointments, municipality reporting, healthcare and shelter lookups, Home Front Command guidelines | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Agent-Skills-Plugin?style=social) |
+| [Claude Israel Agent Skills Plugin](https://github.com/danielrosehill/Claude-Israel-Agent-Skills-Plugin) | Claude Code plugin bundling Israel-specific agent skills — post office appointments, municipality reporting, healthcare and shelter lookups, Home Front Command guidelines | ![](https://img.shields.io/github/stars/danielrosehill/Claude-Israel-Agent-Skills-Plugin?style=social) |
 | [Rail IL Skill](https://github.com/lirantal/skill-railil) | Agent skill for the Israel Railways API | ![](https://img.shields.io/github/stars/lirantal/skill-railil?style=social) |
 | [Seret Skill](https://github.com/omernesh/seret-skill) | Israeli movie showtimes, ratings, cinema info from seret.co.il | ![](https://img.shields.io/github/stars/omernesh/seret-skill?style=social) |
 | [Skills IL — Government Services](https://github.com/skills-il/government-services) | Skills bundle for interacting with Israeli government APIs and digital services | ![](https://img.shields.io/github/stars/skills-il/government-services?style=social) |
@@ -20,3 +20,15 @@ Individual AI agent skills for Israeli services and data. Part of the [Israeli A
 | [Skills IL — Communication](https://github.com/skills-il/communication) | Skills bundle for SMS, email, and customer communication channels in Israel | ![](https://img.shields.io/github/stars/skills-il/communication?style=social) |
 | [Skills IL — Developer Tools](https://github.com/skills-il/developer-tools) | Skills bundle of developer utilities with Israeli localisations for agent builders | ![](https://img.shields.io/github/stars/skills-il/developer-tools?style=social) |
 | [Claude-Israel-Shopping-Plugin](https://github.com/danielrosehill/Claude-Israel-Shopping-Plugin) | Claude Code plugin — shopping for Israeli residents: domestic retailers plus common overseas B2C channels (AliExpress, Amazon, iHerb). | ![](https://img.shields.io/github/stars/danielrosehill/Claude-Israel-Shopping-Plugin?style=social) |
+| [AliExpress Israel Skills](https://github.com/danielrosehill/Aliexpress-Israel-Skills) | Claude Code plugin of AliExpress skills built for an Israel-based buyer — ILS pricing, Israel/Hebrew channel, Choice-first search, landed-cost parsing, and a cart-value VAT nudge around the $75 de-minimis | ![](https://img.shields.io/github/stars/danielrosehill/Aliexpress-Israel-Skills?style=social) |
+
+## Skills in Development
+
+Public work-in-progress skill baskets. Verified skills graduate into the plugins above.
+
+| Repo | Description | Stars |
+|---|---|---|
+| [Israel Agent Skills Dev Index](https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index) | Index of the WIP skills-development repos feeding into Claude-Israel-Agent-Skills-Plugin | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Agent-Skills-Dev-Index?style=social) |
+| [Israel Medication Research Skills](https://github.com/danielrosehill/Israel-Medication-Research-Skills) | Skills for looking up medication availability in Israel, aimed at patients rather than medical professionals | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Medication-Research-Skills?style=social) |
+| [Israel Mortgage Research Skills](https://github.com/danielrosehill/Israel-Mortgage-Research-Skills) | Skills for Israeli residential mortgage research — track mix, Bank of Israel rules, DSR/LTV, bank quirks | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Mortgage-Research-Skills?style=social) |
+| [Israel Property Research Skills](https://github.com/danielrosehill/Israel-Property-Research-Skills) | Skills for Israeli property due diligence — Tabu, tik binyan, shimush choreg, comparables | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Property-Research-Skills?style=social) |

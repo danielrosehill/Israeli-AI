@@ -18,6 +18,8 @@ Model Context Protocol (MCP) servers and domain-specific AI tools for Israeli da
 - [Transportation](#transportation)
 - [Weather & Environment](#weather--environment)
 - [Careers & Jobs](#careers--jobs)
+- [News & Media](#news--media)
+- [Jewish Life & Hebrew Calendar](#jewish-life--hebrew-calendar)
 - [Dashboards](#dashboards)
 - [Plugins](#plugins)
 - [Voice Agents](#voice-agents)
@@ -48,6 +50,9 @@ Banking transactions, financial analysis, and economic data
 | [Takumi](https://github.com/NitzanLary/Takumi) | Personal trading intelligence platform for TASE and US equities via IBI with a Claude-powered chat agent | ![](https://img.shields.io/github/stars/NitzanLary/Takumi?style=social) |
 | [CashPilot](https://github.com/danielcashpilot/cashpilot) | AI-powered analyzer for Israeli personal-finance PDF statements | ![](https://img.shields.io/github/stars/danielcashpilot/cashpilot?style=social) |
 | [Payslip Analyzer](https://github.com/lirantal/payslip-analyzer) | Cloudflare webapp using the Gemini API to analyze Israeli payslips | ![](https://img.shields.io/github/stars/lirantal/payslip-analyzer?style=social) |
+| [Paperless Tax MCP](https://github.com/danielrosehill/paperless-tax-mcp) | Unofficial MCP server and API documentation for paperless.tax, an Israeli bookkeeping SaaS — a community reverse-engineering effort | ![](https://img.shields.io/github/stars/danielrosehill/paperless-tax-mcp?style=social) |
+| [Israel Expense Classification Codes](https://github.com/danielrosehill/israel-expense-classification-codes) | Israel Tax Authority Form 6111 expense classification codes as machine-readable JSON, plus the separate income tax and VAT deduction rules — reference data for agents and accounting integrations | ![](https://img.shields.io/github/stars/danielrosehill/israel-expense-classification-codes?style=social) |
+| [Israeli Google Drive Accounting Doc Router](https://github.com/danielrosehill/Israeli-Google-Drive-Accounting-Doc-Router) | AI-assisted Google Apps Script router for filing Israeli accounting documents through Google Drive | ![](https://img.shields.io/github/stars/danielrosehill/Israeli-Google-Drive-Accounting-Doc-Router?style=social) |
 
 
 ## Government & Open Data
@@ -62,6 +67,7 @@ Access to Israeli government datasets, budgets, and public information
 | [ILBudget MCP](https://github.com/david-aftergut/ILBudget-mcp) | Access to Israeli government budget data | ![](https://img.shields.io/github/stars/david-aftergut/ILBudget-mcp?style=social) |
 | [Knesset MCP](https://github.com/zohar/knesset-mcp) | Access to Israeli parliament (Knesset) data | ![](https://img.shields.io/github/stars/zohar/knesset-mcp?style=social) |
 | [Israel Knesset API MCP](https://github.com/nadavshalev/israel-knesset-api-mcp) | MCP server for accessing the Israeli Knesset (parliament) API | ![](https://img.shields.io/github/stars/nadavshalev/israel-knesset-api-mcp?style=social) |
+| [Israel Open Data Catalogue Translations](https://github.com/danielrosehill/Israel-Open-Data-Catalogue-Translations) | Hebrew → English translation mapping for every dataset on data.gov.il — a drop-in lookup layer for tools and agents working against the Hebrew-only catalogue | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Open-Data-Catalogue-Translations?style=social) |
 
 
 ## Government Services
@@ -138,6 +144,10 @@ Public shelters, emergency services, and civil defense data
 | [Red Alert MCP Server](https://github.com/ozba/redalert-mcp-server) | MCP server for Israel's Red Alert (צבע אדום) emergency alert system — real-time alerts, statistics, shelter search, and city data | ![](https://img.shields.io/github/stars/ozba/redalert-mcp-server?style=social) |
 | [Miklat MCP Data](https://github.com/danielrosehill/Miklat-MCP-Data) | Community-maintained geodata repository and data pipeline for Israeli public shelters, upstream data source for Miklat MCP | ![](https://img.shields.io/github/stars/danielrosehill/Miklat-MCP-Data?style=social) |
 | [Israel Preparedness Guidelines AI Assistant](https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant) | AI assistant providing civil defense and emergency preparedness guidance based on Israeli Home Front Command material. | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant?style=social) |
+| [Red Alert OSINT Notifier](https://github.com/danielrosehill/Red-Alert-OSINT-Notifier) | Notification and OSINT intelligence module for Israeli Red Alert monitoring — Telegram channel monitors, Oref volumetric alerts, Groq-powered intel reports, Pushover delivery | ![](https://img.shields.io/github/stars/danielrosehill/Red-Alert-OSINT-Notifier?style=social) |
+| [Oref GPT](https://github.com/danielrosehill/Oref-GPT) | n8n automation using TwitterAPI.io to retrieve real-time social media data about the source of rocket alerts in Israel | ![](https://img.shields.io/github/stars/danielrosehill/Oref-GPT?style=social) |
+| [Pikud HaOref Guidelines (03/26)](https://github.com/danielrosehill/Pikud-Haoref-Guidelines-0326) | Home Front Command guidance extracted into a structured form for use as ground truth by AI agents | ![](https://img.shields.io/github/stars/danielrosehill/Pikud-Haoref-Guidelines-0326?style=social) |
+| [JLM Shelters Data](https://github.com/danielrosehill/jlm-shelters-data) | Community-maintained dataset and pipeline of public bomb shelters in Jerusalem, backing jlmshelters.com and the JLM Shelter Agent | ![](https://img.shields.io/github/stars/danielrosehill/jlm-shelters-data?style=social) |
 
 
 ## Shopping & Retail
@@ -148,8 +158,9 @@ Israeli e-commerce and price comparison tools
 |---|---|---|
 | [KSP MCP](https://github.com/guymon92/ksp-mcp) | MCP server for searching and browsing products on KSP.co.il — one of Israel's largest electronics and retail stores | ![](https://img.shields.io/github/stars/guymon92/ksp-mcp?style=social) |
 | [Israeli Price Comparison MCP](https://github.com/Simtob-Eran/mcp-israeli-price-comparison) | MCP server for Israeli price comparison | ![](https://img.shields.io/github/stars/Simtob-Eran/mcp-israeli-price-comparison?style=social) |
-| [Israeli Tech Shopping MCP](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP) | MCP server for comparison shopping across Israeli tech retailers with browser automation | ![](https://img.shields.io/github/stars/danielrosehill/Israeli-Tech-Shopping-MCP?style=social) |
 | [Zap](https://github.com/TalKleinBgu/Zap) | Product deduplication pipeline for Israeli price comparison using Hebrew/English normalization, FAISS embeddings, and LLM cluster refinement | ![](https://img.shields.io/github/stars/TalKleinBgu/Zap?style=social) |
+| [Ivory Parts Finder](https://github.com/danielrosehill/Ivory-Parts-Finder) | AI assistant configuration for building computers and sourcing accessories from Ivory, an Israeli computer chain | ![](https://img.shields.io/github/stars/danielrosehill/Ivory-Parts-Finder?style=social) |
+| [Israel Online Stores](https://github.com/danielrosehill/Israel-Online-Stores) | Open data index of Israeli online retailers, intended as a data store backing LLM-driven product search, price comparison, and sourcing agents | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Online-Stores?style=social) |
 
 
 ## Transportation
@@ -182,6 +193,26 @@ AI tools for job hunting and career monitoring in the Israeli market.
 | [Develeap BDR Job Monitor](https://github.com/DoriKafri/develeap-bdr-job-monitor) | Job monitor for Develeap BDR roles. | ![](https://img.shields.io/github/stars/DoriKafri/develeap-bdr-job-monitor?style=social) |
 
 
+## News & Media
+
+AI-assisted news monitoring and briefing pipelines for Israel and the region.
+
+| Project | Description | Stars |
+|---|---|---|
+| [Israel Morning News Briefs (n8n + Perplexity Sonar)](https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar) | Structured Perplexity API prompting orchestrated in n8n to deliver a tailored Israeli morning news brief | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar?style=social) |
+
+
+## Jewish Life & Hebrew Calendar
+
+Agent tooling for Jewish religious life — zmanim, the Hebrew calendar, and text study.
+
+| Project | Description | Stars |
+|---|---|---|
+| [Claude Jewish Utilities Plugin](https://github.com/danielrosehill/Claude-Jewish-Utilities-Plugin) | Claude Code plugin: Shabbat times, zmanim, parsha, Hebrew date conversion, upcoming holidays, daf yomi | ![](https://img.shields.io/github/stars/danielrosehill/Claude-Jewish-Utilities-Plugin?style=social) |
+| [Jewish Texts Reference Plugin](https://github.com/danielrosehill/Jewish-Texts-Reference-Plugin) | Plugin for looking up Jewish religious texts, bundling the Sefaria MCP | ![](https://img.shields.io/github/stars/danielrosehill/Jewish-Texts-Reference-Plugin?style=social) |
+| [Jewish AI Assistant System Prompts](https://github.com/danielrosehill/Jewish-AI-Assistant-System-Prompts) | System prompts for AI assistants covering topics of interest to Jewish users | ![](https://img.shields.io/github/stars/danielrosehill/Jewish-AI-Assistant-System-Prompts?style=social) |
+
+
 ## Dashboards
 
 AI-powered dashboards with an Israeli focus.
@@ -199,6 +230,8 @@ Claude Code and agent plugins for Israeli services.
 |---|---|---|
 | [Deep Value TASE Plugin](https://github.com/deepvalueinvesting/deep-value-tase-plugin) | Deep-value investing plugin for the Tel Aviv Stock Exchange (TASE). | ![](https://img.shields.io/github/stars/deepvalueinvesting/deep-value-tase-plugin?style=social) |
 | [HA Israel News](https://github.com/Daniellamm/ha-israel-news) | HACS integration fetching Israel-related breaking news via the xAI Grok API | ![](https://img.shields.io/github/stars/Daniellamm/ha-israel-news?style=social) |
+| [Claude Green Invoice Ops Plugin](https://github.com/danielrosehill/Claude-Green-Invoice-Ops-Plugin) | Claude Code plugin providing Green Invoice / Morning MCP and skill definitions for Israeli invoicing operations | ![](https://img.shields.io/github/stars/danielrosehill/Claude-Green-Invoice-Ops-Plugin?style=social) |
+| [Claude Local Web Capture Plugin](https://github.com/danielrosehill/Claude-Local-Web-Capture-Plugin) | Claude Code plugin for capturing geo-restricted web content (Israeli news, prices) via the user's own IP, with a headless-first escalation ladder | ![](https://img.shields.io/github/stars/danielrosehill/Claude-Local-Web-Capture-Plugin?style=social) |
 
 
 ## Voice Agents
@@ -216,7 +249,13 @@ Projects that need categorization.
 
 | Project | Description | Stars |
 |---|---|---|
-| [Geopol Forecaster POC](https://github.com/danielrosehill/Geopol-Forecaster-POC) | Proof-of-concept AI geopolitical forecaster with a focus on events relevant to Israel and the wider region. | ![](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecaster-POC?style=social) |
+| [Geopol Forecaster](https://github.com/danielrosehill/Geopol-Forecaster) | AI geopolitical forecaster with a focus on events relevant to Israel and the wider region — Snowglobe-style actor simulation feeding an LLM Council review. | ![](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecaster?style=social) |
+| [Geopol Forecasts Index](https://github.com/danielrosehill/Geopol-Forecasts-Index) | Index of prediction runs from the Geopol Forecaster pipelines, with accuracy tracking as forecast windows close | ![](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecasts-Index?style=social) |
+| [Iran-Israel Grounding Package](https://github.com/danielrosehill/Iran-Israel-Grounding-Package) | Multiagent grounding pipeline for geopolitical intelligence and OSINT projects covering the Iran-Israel theatre | ![](https://img.shields.io/github/stars/danielrosehill/Iran-Israel-Grounding-Package?style=social) |
+| [Israel OSINT Planner](https://github.com/danielrosehill/Israel-OSINT-Planner) | Claude Code research workspace for planning Israel-focused OSINT investigations — source maps, collection plans, analytic frameworks | ![](https://img.shields.io/github/stars/danielrosehill/Israel-OSINT-Planner?style=social) |
+| [Israel SITREP Generation Prompts](https://github.com/danielrosehill/Israel-SITREP-Generation-Prompts) | LLM prompts for generating situational reports (SITREPs) on geopolitical developments in Israel and the Middle East | ![](https://img.shields.io/github/stars/danielrosehill/Israel-SITREP-Generation-Prompts?style=social) |
+| [MK-Claude](https://github.com/danielrosehill/MK-Claude) | AI-assisted political platform experiment for Israel — a researched manifesto for a party that doesn't exist | ![](https://img.shields.io/github/stars/danielrosehill/MK-Claude?style=social) |
+| [Jerusalem Honking LLM Council Run](https://github.com/danielrosehill/Jerusalem-Honking-LLM-Council-Run) | Policy-ideation LLM council run on a Jerusalem local-governance problem (car-horn use) | ![](https://img.shields.io/github/stars/danielrosehill/Jerusalem-Honking-LLM-Council-Run?style=social) |
 | [Quantum Pinuy Binuy Analyzer](https://github.com/hemichaeli/quantum-pinuy-binuy-analyzer) | Analyzer for Israeli pinuy-binuy (evacuation-reconstruction) urban renewal projects. | ![](https://img.shields.io/github/stars/hemichaeli/quantum-pinuy-binuy-analyzer?style=social) |
 | [Asher MCP](https://github.com/shlomiuziel/asher-mcp) | Unknown purpose - requires investigation | ![](https://img.shields.io/github/stars/shlomiuziel/asher-mcp?style=social) |
 | [Fingent](https://github.com/amitdan1/Fingent) | Fingent — Smart Financial Management System for Israel. AI-powered advisor (Finni), open banking, expense analytics | ![](https://img.shields.io/github/stars/amitdan1/Fingent?style=social) |

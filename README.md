@@ -8,7 +8,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 > **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
 
-*Last updated: 2026-04-23*
+*Last updated: 2026-07-25*
 
 ## Contents
 
@@ -65,6 +65,8 @@ Domain-specific MCP servers and tools are listed in [**mcps.md**](mcps.md):
 - [Economics](mcps.md#economics--statistics)
 - [Library](mcps.md#library--archives)
 - [Careers](mcps.md#careers--jobs) · [Dashboards](mcps.md#dashboards)
+- [News & Media](mcps.md#news--media)
+- [Jewish Life & Calendar](mcps.md#jewish-life--hebrew-calendar)
 - [Plugins](mcps.md#plugins) · [Voice](mcps.md#voice-agents)
 - [Other](mcps.md#other-projects)
 
@@ -94,6 +96,10 @@ Community-maintained collections of Israeli AI agent resources.
 | [Awesome Open Source Israel](https://github.com/lirantal/awesome-opensource-israel) | Awesome list of open source projects created by Israeli developers — broader than AI, but includes many AI-adjacent projects. | ![](https://img.shields.io/github/stars/lirantal/awesome-opensource-israel?style=social) |
 | [Awesome Agent Skills Israel](https://github.com/alexpolonsky/awesome-agent-skills-israel) | A curated list of Agent Skills for navigating life in Israel | ![](https://img.shields.io/github/stars/alexpolonsky/awesome-agent-skills-israel?style=social) |
 | [Useful AI Agent Skills — Israel-Specific](https://github.com/danielrosehill/Useful-AI-Agent-Skills#13-israel-specific) | A broader catalogue of useful AI agent skills with a dedicated Israel-specific section. | ![](https://img.shields.io/github/stars/danielrosehill/Useful-AI-Agent-Skills?style=social) |
+| [Jewish AI Projects](https://github.com/danielrosehill/Jewish-AI-Projects) | Curated collection of technological projects for Jewish religious life — AI tools, Hebrew calendar, text study, MCP servers, home automation. | ![](https://img.shields.io/github/stars/danielrosehill/Jewish-AI-Projects?style=social) |
+| [Israeli Open Source Projects](https://github.com/danielrosehill/Israeli-Open-Source-Projects) | Sibling index casting a wider net than this one — Israeli open source across civic tech, finance, careers, real estate, media; useful inputs for AI projects. | ![](https://img.shields.io/github/stars/danielrosehill/Israeli-Open-Source-Projects?style=social) |
+| [Israel Open Data Resources](https://github.com/danielrosehill/Israel-Open-Data-Resources) | Open access Israeli data sources and data projects — grounding material for agents and analysis pipelines. | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Open-Data-Resources?style=social) |
+| [Israel Agent Skills Dev Index](https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index) | Index of work-in-progress Israel skills-development repos feeding into the Claude Israel Agent Skills plugin. | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Agent-Skills-Dev-Index?style=social) |
 
 
 # Communities & Organizations
@@ -200,6 +206,8 @@ Adjacent indexes maintained alongside this repo:
 | [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Working with the Hebrew calendar. |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on Hebrew text. |
 | [Claude Israel](https://github.com/danielrosehill/Claude-Israel) | Index of Claude / Claude Code projects with an Israel focus. |
+| [Israel Projects Index](https://github.com/danielrosehill/Israel-Projects-Index) | Broad index of Israel-related repositories, datasets, and Hugging Face spaces. |
+| [Jewish Related Index](https://github.com/danielrosehill/Jewish-Related-Index) | Index of repositories at the intersection of technology and Judaism. |
 
 # Contributing
 
@@ -216,6 +224,6 @@ The inclusion of a project in this list does not constitute an endorsement. User
 
 ---
 
-*Last updated: 2026-04-05*
+*Last updated: 2026-07-25*
 
 Maintained by [Daniel Rosehill](https://github.com/danielrosehill)
