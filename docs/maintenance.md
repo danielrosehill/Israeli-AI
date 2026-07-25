@@ -78,3 +78,8 @@ successor is the Claude Israel Shopping Plugin, already listed).
   the "By Domain" column of the README table.
 - Bump both `*Last updated:*` stamps in the README (top of file and above the
   maintainer line) — they drift apart otherwise.
+- Nothing to do for the [website](site.md): it is generated from these same
+  markdown files on push, so a new `##` section becomes a new category page by
+  itself. Do check the entry-count and broken-link snippets in `site.md` after
+  a large sweep — a malformed table row drops its entries from the site
+  silently while still looking fine on github.com.

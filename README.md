@@ -4,6 +4,8 @@
 
 A curated map of the Israeli AI ecosystem: AI agents, agent skills, MCP servers, Hebrew language resources, communities, meetups, government bodies, conferences, and domain-specific tools — covering finance, healthcare, government data, real estate, safety, and more.
 
+**🌐 Browse it as a website: [danielrosehill.github.io/Israeli-AI](https://danielrosehill.github.io/Israeli-AI/)** — the same index with a page per category, built from these markdown files on every push.
+
 Projects are presented as compact tables; ecosystem and community sections use grouped lists. See [SCOPE.md](SCOPE.md) for inclusion criteria and [pending.md](pending.md) for planned sections awaiting entries.
 
 > **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
