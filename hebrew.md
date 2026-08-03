@@ -27,6 +27,7 @@ Indexes and resource lists focused on Hebrew-language AI models, tooling, and ev
 
 | Project | Description | Stars |
 |---|---|---|
+| [Hebrew Tech Vocab](https://github.com/danielrosehill/Hebrew-Tech-Vocab) | Working collection of Hebrew technical vocabulary — reference for agents producing or parsing Hebrew technical text | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Tech-Vocab?style=social) |
 | [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation) | Resources, tools, and notes on English ↔ Hebrew translation workflows. | ![](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Translation?style=social) |
 | [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Resources for working with the Hebrew calendar (Jewish/Israeli date systems). | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Calendar-Resources?style=social) |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on their ability to render Hebrew text. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Image-Generation-Eval?style=social) |

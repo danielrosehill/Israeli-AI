@@ -209,6 +209,7 @@ Adjacent indexes maintained alongside this repo:
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on Hebrew text. |
 | [Claude Israel](https://github.com/danielrosehill/Claude-Israel) | Index of Claude / Claude Code projects with an Israel focus. |
 | [Israel Projects Index](https://github.com/danielrosehill/Israel-Projects-Index) | Broad index of Israel-related repositories, datasets, and Hugging Face spaces. |
+| [Israel Reference Repos](https://github.com/danielrosehill/Israel-Reference-Repos) | Index of Israel-related reference material — standards, regulations, classification codes, datasets and translated official guidance; grounding material for Israel-specific agent tasks. |
 | [Jewish Related Index](https://github.com/danielrosehill/Jewish-Related-Index) | Index of repositories at the intersection of technology and Judaism. |
 
 # Contributing
