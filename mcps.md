@@ -51,7 +51,6 @@ Banking transactions, financial analysis, and economic data
 | [CashPilot](https://github.com/danielcashpilot/cashpilot) | AI-powered analyzer for Israeli personal-finance PDF statements | ![](https://img.shields.io/github/stars/danielcashpilot/cashpilot?style=social) |
 | [Payslip Analyzer](https://github.com/lirantal/payslip-analyzer) | Cloudflare webapp using the Gemini API to analyze Israeli payslips | ![](https://img.shields.io/github/stars/lirantal/payslip-analyzer?style=social) |
 | [Paperless Tax MCP](https://github.com/danielrosehill/paperless-tax-mcp) | Unofficial MCP server and API documentation for paperless.tax, an Israeli bookkeeping SaaS — a community reverse-engineering effort | ![](https://img.shields.io/github/stars/danielrosehill/paperless-tax-mcp?style=social) |
-| [Israel Expense Classification Codes](https://github.com/danielrosehill/israel-expense-classification-codes) | Israel Tax Authority Form 6111 expense classification codes as machine-readable JSON, plus the separate income tax and VAT deduction rules — reference data for agents and accounting integrations | ![](https://img.shields.io/github/stars/danielrosehill/israel-expense-classification-codes?style=social) |
 | [Israeli Google Drive Accounting Doc Router](https://github.com/danielrosehill/Israeli-Google-Drive-Accounting-Doc-Router) | AI-assisted Google Apps Script router for filing Israeli accounting documents through Google Drive | ![](https://img.shields.io/github/stars/danielrosehill/Israeli-Google-Drive-Accounting-Doc-Router?style=social) |
 
 
@@ -67,8 +66,6 @@ Access to Israeli government datasets, budgets, and public information
 | [ILBudget MCP](https://github.com/david-aftergut/ILBudget-mcp) | Access to Israeli government budget data | ![](https://img.shields.io/github/stars/david-aftergut/ILBudget-mcp?style=social) |
 | [Knesset MCP](https://github.com/zohar/knesset-mcp) | Access to Israeli parliament (Knesset) data | ![](https://img.shields.io/github/stars/zohar/knesset-mcp?style=social) |
 | [Israel Knesset API MCP](https://github.com/nadavshalev/israel-knesset-api-mcp) | MCP server for accessing the Israeli Knesset (parliament) API | ![](https://img.shields.io/github/stars/nadavshalev/israel-knesset-api-mcp?style=social) |
-| [Israel Open Data Changelog](https://github.com/danielrosehill/Israel-Open-Data-Changelog) | Unofficial month-by-month changelog of what appeared on data.gov.il, reconstructed from the CKAN API — lets an agent see what datasets exist and when they landed | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Open-Data-Changelog?style=social) |
-| [Israel Open Data Catalogue Translations](https://github.com/danielrosehill/Israel-Open-Data-Catalogue-Translations) | Hebrew → English translation mapping for every dataset on data.gov.il — a drop-in lookup layer for tools and agents working against the Hebrew-only catalogue | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Open-Data-Catalogue-Translations?style=social) |
 
 
 ## Government Services
@@ -147,9 +144,7 @@ Public shelters, emergency services, and civil defense data
 | [Israel Preparedness Guidelines AI Assistant](https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant) | AI assistant providing civil defense and emergency preparedness guidance based on Israeli Home Front Command material. | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant?style=social) |
 | [Red Alert OSINT Notifier](https://github.com/danielrosehill/Red-Alert-OSINT-Notifier) | Notification and OSINT intelligence module for Israeli Red Alert monitoring — Telegram channel monitors, Oref volumetric alerts, Groq-powered intel reports, Pushover delivery | ![](https://img.shields.io/github/stars/danielrosehill/Red-Alert-OSINT-Notifier?style=social) |
 | [Oref GPT](https://github.com/danielrosehill/Oref-GPT) | n8n automation using TwitterAPI.io to retrieve real-time social media data about the source of rocket alerts in Israel | ![](https://img.shields.io/github/stars/danielrosehill/Oref-GPT?style=social) |
-| [Pikud HaOref Guidelines (03/26)](https://github.com/danielrosehill/Pikud-Haoref-Guidelines-0326) | Home Front Command guidance extracted into a structured form for use as ground truth by AI agents | ![](https://img.shields.io/github/stars/danielrosehill/Pikud-Haoref-Guidelines-0326?style=social) |
 | [JLM Shelters Data](https://github.com/danielrosehill/jlm-shelters-data) | Community-maintained dataset and pipeline of public bomb shelters in Jerusalem, backing jlmshelters.com and the JLM Shelter Agent | ![](https://img.shields.io/github/stars/danielrosehill/jlm-shelters-data?style=social) |
-| [Israel Red Alert Syntax Notes](https://github.com/danielrosehill/Israel-Red-Alert-Syntax-Notes) | Syntax notes for the IDF Home Front Command alert feed — field shapes and quirks for anyone automating on top of it | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Red-Alert-Syntax-Notes?style=social) |
 | [Oref Alert Proxy](https://github.com/danielrosehill/Oref-Alert-Proxy) | Local relay proxy for Pikud HaOref alert data, so agents and automations can consume the feed without hitting the source directly | ![](https://img.shields.io/github/stars/danielrosehill/Oref-Alert-Proxy?style=social) |
 
 

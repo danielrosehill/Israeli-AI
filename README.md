@@ -10,7 +10,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 > **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
 
-*Last updated: 2026-08-03*
+*Last updated: 2026-08-04*
 
 ## Contents
 
@@ -23,6 +23,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 - [AI Agents →](agents.md)
 - [Agent Skills →](agent-skills.md)
 - [MCP Servers →](mcps.md)
+- [Israel Data →](data.md)
 - [Curated Lists](#curated-lists)
 
 </td>
@@ -83,6 +84,7 @@ This repo's project listings live on dedicated pages:
 - **[AI Agents →](agents.md)** — Autonomous AI agents built for Israeli use cases.
 - **[Agent Skills →](agent-skills.md)** — Israel-focused AI agent skills and skill collections.
 - **[MCP Servers →](mcps.md)** — Model Context Protocol servers for Israeli domains.
+- **[Israel Data →](data.md)** — Datasets and reference material about Israel, published in a form intended to be read by AI agents.
 
 # Curated Lists
 
@@ -227,6 +229,6 @@ The inclusion of a project in this list does not constitute an endorsement. User
 
 ---
 
-*Last updated: 2026-08-03*
+*Last updated: 2026-08-04*
 
 Maintained by [Daniel Rosehill](https://github.com/danielrosehill)
