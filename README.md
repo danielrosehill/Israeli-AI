@@ -10,7 +10,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 > **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
 
-*Last updated: 2026-08-04*
+*Last updated: 2026-08-03*
 
 ## Contents
 
@@ -23,8 +23,8 @@ Projects are presented as compact tables; ecosystem and community sections use g
 - [AI Agents →](agents.md)
 - [Agent Skills →](agent-skills.md)
 - [MCP Servers →](mcps.md)
-- [Israel Data →](data.md)
 - [Curated Lists](#curated-lists)
+- [Datasets ↗](https://github.com/danielrosehill/Israel-Reference-Repos)
 
 </td>
 <td valign="top" width="25%">
@@ -84,7 +84,8 @@ This repo's project listings live on dedicated pages:
 - **[AI Agents →](agents.md)** — Autonomous AI agents built for Israeli use cases.
 - **[Agent Skills →](agent-skills.md)** — Israel-focused AI agent skills and skill collections.
 - **[MCP Servers →](mcps.md)** — Model Context Protocol servers for Israeli domains.
-- **[Israel Data →](data.md)** — Datasets and reference material about Israel, published in a form intended to be read by AI agents.
+
+**Looking for the data itself?** Datasets and reference material — classification codes, lookup tables, catalogue translations, official guidance restructured for retrieval — are indexed separately in **[Israel Reference Repos →](https://github.com/danielrosehill/Israel-Reference-Repos)**. This index covers the software: agents, skills and servers. That one covers the structured context they read. See [SCOPE.md](SCOPE.md) for where the line falls.
 
 # Curated Lists
 
@@ -211,7 +212,7 @@ Adjacent indexes maintained alongside this repo:
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on Hebrew text. |
 | [Claude Israel](https://github.com/danielrosehill/Claude-Israel) | Index of Claude / Claude Code projects with an Israel focus. |
 | [Israel Projects Index](https://github.com/danielrosehill/Israel-Projects-Index) | Broad index of Israel-related repositories, datasets, and Hugging Face spaces. |
-| [Israel Reference Repos](https://github.com/danielrosehill/Israel-Reference-Repos) | Index of Israel-related reference material — standards, regulations, classification codes, datasets and translated official guidance; grounding material for Israel-specific agent tasks. |
+| [Israel Reference Repos](https://github.com/danielrosehill/Israel-Reference-Repos) | **The companion to this index.** Israel-related reference material — standards, regulations, classification codes, datasets, directories and translated official guidance. Structured context for agents to read, as opposed to the agents and servers indexed here. Datasets are deliberately kept out of this index and listed there. |
 | [Jewish Related Index](https://github.com/danielrosehill/Jewish-Related-Index) | Index of repositories at the intersection of technology and Judaism. |
 
 # Contributing
@@ -229,6 +230,6 @@ The inclusion of a project in this list does not constitute an endorsement. User
 
 ---
 
-*Last updated: 2026-08-04*
+*Last updated: 2026-08-03*
 
 Maintained by [Daniel Rosehill](https://github.com/danielrosehill)
