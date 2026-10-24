@@ -164,6 +164,7 @@ Israeli e-commerce and price comparison tools
 | [Zap](https://github.com/TalKleinBgu/Zap) | Product deduplication pipeline for Israeli price comparison using Hebrew/English normalization, FAISS embeddings, and LLM cluster refinement | ![](https://img.shields.io/github/stars/TalKleinBgu/Zap?style=social) |
 | [Ivory Parts Finder](https://github.com/danielrosehill/Ivory-Parts-Finder) | AI assistant configuration for building computers and sourcing accessories from Ivory, an Israeli computer chain | ![](https://img.shields.io/github/stars/danielrosehill/Ivory-Parts-Finder?style=social) |
 | [Israel Online Stores](https://github.com/danielrosehill/Israel-Online-Stores) | Open data index of Israeli online retailers, intended as a data store backing LLM-driven product search, price comparison, and sourcing agents | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Online-Stores?style=social) |
+| [Salsmart MCP & Starter](https://github.com/Aradkot/salsmart-starter) | Free, read-only hosted MCP for Israeli supermarket price search and freshness checks, with MIT-licensed client configurations and Python JSONL/CSV exporter; selected-branch coverage and optional separate paid REST API | ![](https://img.shields.io/github/stars/Aradkot/salsmart-starter?style=social) |
 
 
 ## Transportation
