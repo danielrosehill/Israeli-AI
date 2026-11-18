@@ -45,10 +45,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 ### 🇮🇱 Hebrew & Language
 
-- [Hebrew Resources →](hebrew.md)
-- [Hebrew LLM Models](hebrew.md#hebrew-llm-models)
-- [Hebrew TTS Providers](hebrew.md#hebrew-tts-providers)
-- [English-Hebrew Code-Switching](hebrew.md#english-hebrew-code-switching)
+- [Hebrew-language AI ↗](https://github.com/danielrosehill/Hebrew-AI)
 - [Related Indexes](#related-indexes)
 
 </td>
@@ -201,7 +198,7 @@ Directories and databases tracking the Israeli AI startup ecosystem.
 
 # Hebrew Language Resources
 
-Hebrew-language AI models, TTS providers, and related indexes live on a dedicated page: **[hebrew.md →](hebrew.md)**
+Hebrew-language AI (models, datasets, and the people and organisations behind them) has its own index: **[Hebrew AI ↗](https://github.com/danielrosehill/Hebrew-AI)**. It covers Hebrew-language work wherever it happens; this index covers Israel-focused AI.
 
 # Related Indexes
 
@@ -209,7 +206,7 @@ Adjacent indexes maintained alongside this repo:
 
 | Index | Description |
 |---|---|
-| [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models) | Index of AI/LLM models with Hebrew language support. |
+| [Hebrew AI](https://github.com/danielrosehill/Hebrew-AI) | **Hebrew-language AI hub**: models, datasets, people and organisations, in Israel and elsewhere. Sub-indexes Hebrew-AI-Models, Hebrew-Datasets, Hebrew-AI-Community. |
 | [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | Broad index of Hebrew language projects across the AI/NLP ecosystem. |
 | [English-Hebrew Code-Switching Index](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index) | ASR fine-tunes, datasets, a token classifier, and a code-switching ASR benchmark + leaderboard for English speech/text containing Hebrew words (Hebrish). |
 | [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Index of text-to-speech providers and engines supporting Hebrew. |

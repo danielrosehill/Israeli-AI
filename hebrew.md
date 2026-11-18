@@ -1,40 +1,9 @@
 # Hebrew Language Resources
 
-Indexes and resource lists focused on Hebrew-language AI models, tooling, and evaluations — adjacent to the Israel-specific agent and MCP ecosystem.
+Hebrew-language AI now has its own index: **[Hebrew AI](https://github.com/danielrosehill/Hebrew-AI)** (since 2026-11-18).
 
-## External Resources
+- [Hebrew-AI-Models](https://github.com/danielrosehill/Hebrew-AI-Models): LLMs, ASR, TTS, OCR, NLP, embeddings, translation
+- [Hebrew-Datasets](https://github.com/danielrosehill/Hebrew-Datasets): speech and audio, sentence, text corpora, translation, NLP task datasets
+- [Hebrew-AI-Community](https://github.com/danielrosehill/Hebrew-AI-Community): people and organisations, including Hebrew-native AI products (RubyBot, PolyLM, Hebrish) and the Open Hebrew LLM Leaderboard
 
-- [Dicta (dicta.org.il)](https://dicta.org.il/) — Israeli center for the analysis of Hebrew texts; open-source Hebrew NLP models, datasets, and tools (including DictaLM and OCR for Hebrew).
-- [Open Hebrew LLM Leaderboard (Hugging Face)](https://huggingface.co/blog/leaderboard-hebrew) — Community leaderboard evaluating LLMs on Hebrew language tasks.
-- [RubyBot (rubybot.co.il)](https://rubybot.co.il/) — Hebrew-native AI chatbot.
-- [PolyLM (polylm.com)](https://www.polylm.com/) — Hebrew-native AI assistant / LLM product.
-- [Hebrish (hebrish.app)](https://hebrish.app/) — English–Hebrew code-switching speech: on-device English dictation (Android, Ubuntu, Windows) that writes Hebrew words like *makolet* or *kartis ashrai* in one consistent romanized spelling instead of guessing English, plus a sibling text-to-speech thread that voices romanized Hebrew as Hebrew. Free, no account. Models on [Hugging Face](https://huggingface.co/Hebrish); code at [Hebrish-ASR](https://github.com/Hebrish-ASR).
-
-## Hebrew LLM Models
-
-| Project | Description | Stars |
-|---|---|---|
-| [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models) | Index of AI/LLM models with Hebrew language support. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-AI-Models?style=social) |
-| [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | A broad index of Hebrew language projects across the AI/NLP ecosystem. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Language-Projects-Index?style=social) |
-| [Hebrew LLMs](https://github.com/danielrosehill/Hebrew-LLMs) | Pathfinder index to Hebrew language LLMs published on Hugging Face. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-LLMs?style=social) |
-
-## English-Hebrew Code-Switching
-
-| Project | Description | Stars |
-|---|---|---|
-| [English-Hebrew Code-Switching Index](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index) | Models, datasets, Spaces and a benchmark for English speech and text containing Hebrew words — Whisper-Hebrish, a released Parakeet code-switching fine-tune, a Hebrew-in-Latin token classifier, and an English-Hebrew code-switching ASR benchmark with leaderboard. | ![](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Code-Switching-Index?style=social) |
-
-## Hebrew TTS Providers
-
-| Project | Description | Stars |
-|---|---|---|
-| [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Index of text-to-speech providers and engines supporting Hebrew. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-TTS-Providers?style=social) |
-
-## Other Hebrew Resources
-
-| Project | Description | Stars |
-|---|---|---|
-| [Hebrew Tech Vocab](https://github.com/danielrosehill/Hebrew-Tech-Vocab) | Working collection of Hebrew technical vocabulary — reference for agents producing or parsing Hebrew technical text | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Tech-Vocab?style=social) |
-| [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation) | Resources, tools, and notes on English ↔ Hebrew translation workflows. | ![](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Translation?style=social) |
-| [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Resources for working with the Hebrew calendar (Jewish/Israeli date systems). | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Calendar-Resources?style=social) |
-| [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of image generation models on their ability to render Hebrew text. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Image-Generation-Eval?style=social) |
+Narrower Hebrew lists (Hebrew-LLMs, Hebrew-TTS-Providers, English-Hebrew Code-Switching, Hebrew Image Generation Eval, English ↔ Hebrew Translation) are linked from the Hebrew AI hub.

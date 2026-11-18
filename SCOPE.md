@@ -16,7 +16,7 @@ This resource list catalogues the **Israeli AI ecosystem** — both individual p
 - Plugins (e.g. Claude Code plugins) with an Israel focus
 - Voice agents and conversational AI built for Israeli use cases
 - AI-powered dashboards, tools, and utilities targeting Israeli data or users
-- Hebrew-language AI models, tooling, and evaluations
+- Hebrew-language AI tooling with an Israel focus. Hebrew-language AI models, datasets and the people behind them are indexed in [Hebrew AI](https://github.com/danielrosehill/Hebrew-AI), not here.
 - Israeli AI communities, organizations, and associations
 - Websites and hosted services that are AI-first and Israel-focused
 - **AI ideation projects** — where the AI's output is the substantive work product (research, policy, argument) rather than a tool, provided the method is written down and enforced. A folder of AI-generated prose is not in scope; a repository with a stated evidence standard and something enforcing it is
