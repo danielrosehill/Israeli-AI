@@ -79,6 +79,7 @@ Public services and administrative functions
 |---|---|---|
 | [Disabled Parking Permit MCP](https://github.com/MaorEi/disabled-parking-permit-mcp-server) | Israeli disabled parking permit information | ![](https://img.shields.io/github/stars/MaorEi/disabled-parking-permit-mcp-server?style=social) |
 | [Israel Fine Checker](https://github.com/kistik1/Israel-fine-checker) | Open-source skill and MCP server for checking Israeli parking and HOV/public-transport-route fines through doh.co.il, with Hebrew intake prompts and support for 63 municipalities | ![](https://img.shields.io/github/stars/kistik1/Israel-fine-checker?style=social) |
+| [Tendy](https://github.com/ofir09/tendy-mcp) | Remote MCP server (`https://tendy.co.il/mcp`, OAuth) for Israeli public procurement tenders (מכרזים ציבוריים) from government ministries, municipalities and state companies: search open tenders, read threshold conditions, guarantees and deadlines, and search inside the tender documents. Site: [tendy.co.il](https://tendy.co.il) | ![](https://img.shields.io/github/stars/ofir09/tendy-mcp?style=social) |
 
 
 ## Healthcare & Medical
